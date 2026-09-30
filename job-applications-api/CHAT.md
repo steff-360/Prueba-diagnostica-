@@ -1,5 +1,5 @@
 # CHAT — ASISTENCIA DE IA
-
+https://share.gemini.google/pDI6vHYwRrg1
 ## Propósito
 
 Este archivo documenta el uso de asistencia de inteligencia artificial durante el desarrollo de la prueba técnica.
